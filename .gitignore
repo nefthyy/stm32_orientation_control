@@ -1,0 +1,13 @@
+# Build output
+build/
+*.o
+*.d
+*.lst
+*.elf
+*.bin
+*.hex
+*.map
+
+# Local tooling
+.claude/
+__pycache__/
